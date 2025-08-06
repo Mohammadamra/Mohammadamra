@@ -1,31 +1,9 @@
-<h2 align="left">Hi 👋! I'm Mohammad Amra, a passionate Computer Engineer from Jordan 🇯🇴</h2>
+<h1 align="center">Hi 👋, I'm Mohammad Amra</h1>
+<h3 align="center">A passionate physical design engineer</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadamra&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadamra" /> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-
-###
-
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-</div>
-
-###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadamra" alt="mohammadamra" /></a> </p>
 
 ### 🧠 About Me:
 
@@ -34,9 +12,19 @@
 - 🚀 Experienced with tools like **Synopsys Fusion Compiler** and **PrimeTime**
 - 🔬 Passionate about **RISC-V**, open-source silicon, and low-power architectures  
 - 🛠️ Developed a **2-way superscalar MIPS processor** and built **custom FSMs in Verilog**
-- 📡 Applied **Reinforcement Learning** in mmWave 5G beamforming research
 
 ###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadamra&show_icons=true&locale=en&layout=compact" alt="mohammadamra" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadamra&show_icons=true&locale=en" alt="mohammadamra" /></p>
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohammadamra/" target="_blank">
