@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohammad Amra</h1>
-<h3 align="center">A passionate physical design engineer</h3>
+<h3 align="center">Analog and Mixed Signal Layout Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadamra&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadamra" /> </p>
 
 
-### 🧠 About Me:
+###  About Me:
 
-- 🎓 Fresh Computer Engineering Graduate  
-- 💻 Focused on **Digital Design**, **RTL**, **STA**, and **EDA workflows**
-- 🚀 Experienced with tools like **Synopsys Fusion Compiler** and **PrimeTime**
-- 🔬 Passionate about **RISC-V**, open-source silicon, and low-power architectures  
-- 🛠️ Developed a **2-way superscalar MIPS processor** and built **custom FSMs in Verilog**
+-  Analog and Mixed Signal Layout Engineer
+-  Focused on **Digital Design**, **Layout**, **DRC and LVS**, and **EDA workflows**
+-  Experienced with tools like **Synopsys Fusion Compiler** and **PrimeTime** and **Custom Compiler**
+-  Passionate about **RISC-V**, open-source silicon, and low-power architectures  
 
 ###
 <h3 align="left">Connect with me:</h3>
