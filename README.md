@@ -13,6 +13,17 @@
 
 ###
 <h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/mohammadamra/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="mohammadamra00@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://github.com/mohammadamra" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+</div>
 <p align="left">
 </p>
 
@@ -65,17 +76,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadamra&show_icons=true&locale=en" alt="mohammadamra" /></p>
 
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohammadamra/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="mohammadamra00@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://github.com/mohammadamra" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-</div>
 
 ###
 
