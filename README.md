@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Amra</h1>
-<h3 align="center">Analog and Mixed Signal Layout Engineer @ Goledn Electronics (Synopsys Contractor)</h3>
+<h3 align="center">Analog and Mixed Signal Layout Engineer @ Golden Electronics (Synopsys Contractor)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadamra&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadamra" /> </p>
 
