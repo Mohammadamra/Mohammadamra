@@ -7,7 +7,7 @@
 ###  About Me:
 
 -  Analog and Mixed Signal Layout Engineer
--  Focused on **Digital Design**, **Layout**, **DRC and LVS**, and **EDA workflows**
+-  Focused on **Analog Design**, **Layout**, **DRC and LVS**, and **EDA workflows**
 -  Experienced with tools like **Synopsys Fusion Compiler** and **PrimeTime** and **Custom Compiler**
 -  Passionate about **RISC-V**, open-source silicon, and low-power architectures  
 
